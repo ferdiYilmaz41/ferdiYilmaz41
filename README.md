@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ferdi Islam Yilmaz!
+# 👋 Hi, I'm Ferdi İslam Yılmaz!
 
 🎓 **Computer Engineer**  
 🌟 **Aspiring Data Scientist**  
@@ -47,7 +47,7 @@
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FerdiIslamYilmaz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yilmaz-ferdi/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ferdi-İslam-Yılmaz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yilmaz-ferdi/)  
 [![Email](https://img.shields.io/badge/Email-yilmaz.ferdiislam@gmail.com-red?style=flat&logo=gmail)](mailto:yilmaz.ferdiislam@gmail.com)
 
 ---
