@@ -20,7 +20,7 @@
 
 ## 🛠️ Projects
 
-### 🌱 [Tomato Leaf Disease Detection](https://github.com/ferdi123/tomato-disease)
+### 🌱 **Tomato Leaf Disease Detection**
 - AI model trained with MobileNet.
 - Integrated as a mobile app for farmers.
 
@@ -47,7 +47,7 @@
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yilmaz-ferdi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yilmaz-ferdi/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FerdiIslamYilmaz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yilmaz-ferdi/)  
 [![Email](https://img.shields.io/badge/Email-yilmaz.ferdiislam@gmail.com-red?style=flat&logo=gmail)](mailto:yilmaz.ferdiislam@gmail.com)
 
 ---
