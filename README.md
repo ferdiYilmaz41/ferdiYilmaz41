@@ -27,11 +27,11 @@
 ### 📊 **Anomaly Detection for BLE Devices**
 - Developed an SVM model for anomaly detection in BLE devices.
 
-### 🤖 **Hyperparameter Optimization for Machine Learning Models**
+### 🤖 [Hyperparameter Optimization for Machine Learning Models](https://github.com/ferdiYilmaz41/ML-parameters-optimization)
 - Used **DE**, **GWO**, and **WOA** algorithms for hyperparameter tuning.
 - Models: AdaBoost, Decision Tree, Gradient Boosting, Logistic Regression, Random Forest, and SVM.
 
-### 🏡 [Remote Home Automation with Raspberry Pi](https://github.com/ferdi123/home-automation)
+### 🏡 **Remote Home Automation with Raspberry Pi**
 - Created a home automation and remote monitoring system using Raspberry Pi 3.
 
 ### 🔐 **Hyundai Cybersecurity Project**
