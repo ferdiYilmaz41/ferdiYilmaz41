@@ -41,14 +41,14 @@
 
 ## 📈 My Stats
 
-![Ferdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferdi123&show_icons=true&theme=radical)
+![Ferdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferdiYilmaz41&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FerdiIslamYilmaz-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ferdi123)  
-[![Email](https://img.shields.io/badge/Email-ferdi@example.com-red?style=flat&logo=gmail)](mailto:ferdi@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yilmaz-ferdi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yilmaz-ferdi/)  
+[![Email](https://img.shields.io/badge/Email-yilmaz.ferdiislam@gmail.com-red?style=flat&logo=gmail)](mailto:yilmaz.ferdiislam@gmail.com)
 
 ---
 
@@ -63,4 +63,4 @@
 
 ---
 
-👀 For more details, check out [my GitHub profile](https://github.com/ferdi123)!
+👀 For more details, check out [my GitHub profile](https://github.com/ferdiYilmaz41)!
