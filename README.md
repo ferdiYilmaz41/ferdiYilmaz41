@@ -20,7 +20,7 @@
 
 ## 🛠️ Projects
 
-### 🌱 **Tomato Leaf Disease Detection**
+### 🌱 [Tomato Leaf Disease Detection](https://github.com/ferdiYilmaz41/tomato-disease-detection-model)
 - AI model trained with MobileNet.
 - Integrated as a mobile app for farmers.
 
