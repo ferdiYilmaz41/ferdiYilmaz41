@@ -61,6 +61,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
-👀 For more details, check out [my GitHub profile](https://github.com/ferdiYilmaz41)!
